@@ -1,10 +1,10 @@
 # Memory-game
 Simple memory game written in processing.
 When game start:
-![alt text](https://raw.githubusercontent.com/yunkaiwang/Memory-game/screenshot/start.png)
+![alt text](/screenshot/start.png?raw=true "Start")
 In progress:
-![alt text](https://raw.githubusercontent.com/yunkaiwang/Memory-game/screenshot/in-progress.png)
+![alt text](/screenshot/in-progress.png?raw=true "In progress")
 Win:
-![alt text](https://raw.githubusercontent.com/yunkaiwang/Memory-game/screenshot/win.png)
+![alt text](/screenshot/win.png?raw=true "Win")
 
 
